@@ -1,0 +1,56 @@
+Number ranges:
+    Addition:
+        Easy:
+0
+10
+        Medium:
+10
+100
+        Hard:
+100
+1000
+
+    Subtraction:
+        Easy:
+0
+10
+        Medium:
+10
+100
+        Hard:
+100
+1000
+
+    Multiplication:
+        Easy:
+0
+5
+        Medium:
+0
+12
+        Hard:
+0
+100
+
+    Division
+        Easy:
+0
+5
+        Medium:
+0
+12
+        Hard:
+0
+100
+        Negative Number Questions Enabled (1 = true, 0 = false):
+1
+
+        Questions like 2/4 Enabled (1 = true, 0 = false):
+0
+    Max value for division number 1
+        Easy:
+25
+        Medium:
+144
+        Hard:
+1000
